@@ -31,7 +31,10 @@ p{
 .first{
     overflow-x: hidden;
 }
-
+html{
+    width: 100vm;
+    overflow-x: hidden;
+}
 .heading{
     text-align: center;
     height: 146px;
