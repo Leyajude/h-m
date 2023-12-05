@@ -28,6 +28,9 @@ p{
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+.first{
+    overflow: hidden;
+}
 }
 .heading{
     text-align: center;
@@ -146,3 +149,4 @@ position: relative;
         flex-wrap: wrap;
     width: 12%;
     }
+   
