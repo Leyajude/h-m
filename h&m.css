@@ -29,9 +29,9 @@ p{
     justify-content: space-evenly;
 }
 .first{
-    overflow: hidden;
+    overflow-x: hidden;
 }
-}
+
 .heading{
     text-align: center;
     height: 146px;
