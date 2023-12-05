@@ -1,4 +1,4 @@
-@media(max_width:967px){
+@media(max_width:967px)
     .heading{
         text-align: center;
         height: 146px;
@@ -31,10 +31,7 @@ p{
 .first{
     overflow-x: hidden;
 }
-html{
-    width: 100vm;
-    overflow-x: hidden;
-}
+
 .heading{
     text-align: center;
     height: 146px;
@@ -47,7 +44,7 @@ a{
     color: rgb(222, 219, 219);
 }
 img{
-    width: 600px;
+    width: 379px;
     height: 500px;
     position: absolute;
 }
@@ -76,7 +73,7 @@ img{
 }
 h2{
     font-family:cursive;
-    font-size: 42px;
+    font-size: 30px;
     text-align:left;
     /* position: relative; */
 }
